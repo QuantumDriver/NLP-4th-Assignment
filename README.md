@@ -1,4 +1,4 @@
-# 开课吧人工智能学院 自然语言处理 第四期
+# 开课吧人工智能学院 自然语言处理 [第四期](https://github.com/QuantumDriver/NLP-4th-Assignment/blob/master/Outline.pdf)
 
 ## Lesson-1
 - [代码复现](https://github.com/QuantumDriver/NLP-4th-Assignment/blob/master/Lesson-01/Recurrent.ipynb)
