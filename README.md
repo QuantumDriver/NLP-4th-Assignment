@@ -18,8 +18,8 @@
 - [基于绝对损失函数的梯度下降](https://github.com/QuantumDriver/NLP-4th-Assignment/blob/master/Lesson-03/2.%E5%9F%BA%E4%BA%8E%E7%BB%9D%E5%AF%B9%E6%8D%9F%E5%A4%B1%E5%87%BD%E6%95%B0%E7%9A%84%E6%A2%AF%E5%BA%A6%E4%B8%8B%E9%99%8D.ipynb)
 - [编辑距离](https://github.com/QuantumDriver/NLP-4th-Assignment/blob/master/Lesson-03/3.%E7%BC%96%E8%BE%91%E8%B7%9D%E7%A6%BB.ipynb)
 - [书籍阅读](https://github.com/QuantumDriver/NLP-4th-Assignment/tree/master/%E6%AF%8F%E6%97%A5%E9%98%85%E8%AF%BB)
-- [动态规划理论]()
-- [项目准备]
+- [动态规划理论](https://github.com/QuantumDriver/NLP-4th-Assignment/blob/master/Lesson-03/5.2%20%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92%E7%90%86%E8%AE%BA.md)
+- [项目准备]()
 ***
 ## [Lesson-4]()
 - []()
