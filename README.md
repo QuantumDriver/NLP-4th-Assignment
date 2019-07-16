@@ -8,10 +8,10 @@
 ***
 ## Lesson-2
 - [代码复现](https://github.com/QuantumDriver/NLP-4th-Assignment/blob/master/Lesson-02/code%20recurrent.ipynb)
-- [梯度下降](https://github.com/QuantumDriver/NLP-4th-Assignment/blob/master/Lesson-02/%E6%A2%AF%E5%BA%A6%E4%B8%8B%E9%99%8D%E7%9A%84%E8%A1%A5%E5%85%85.ipynb)
 - [理论作业](https://github.com/QuantumDriver/NLP-4th-Assignment/blob/master/Lesson-02/Q2-Answer%20the%20questions.ipynb)
-- [机器学习](https://github.com/QuantumDriver/NLP-4th-Assignment/blob/master/Lesson-02/Assignment-Machine%20Learning.ipynb)
+- [机器学习的引入](https://github.com/QuantumDriver/NLP-4th-Assignment/blob/master/Lesson-02/Assignment-Machine%20Learning.ipynb)
 - [北京市地铁线路搜索](https://github.com/QuantumDriver/NLP-4th-Assignment/blob/master/Lesson-02/Search%20Problem.ipynb)
+- [梯度下降算法](https://github.com/QuantumDriver/NLP-4th-Assignment/blob/master/Lesson-02/%E6%A2%AF%E5%BA%A6%E4%B8%8B%E9%99%8D%E7%9A%84%E8%A1%A5%E5%85%85.ipynb)
 ***
 ## Lesson-3
 - [代码复现](https://github.com/QuantumDriver/NLP-4th-Assignment/blob/master/Lesson-03/1.%E8%AF%BE%E5%A0%82%E4%BB%A3%E7%A0%81%E5%A4%8D%E7%8E%B0.ipynb)
