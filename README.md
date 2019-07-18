@@ -19,7 +19,7 @@
 - [编辑距离](https://github.com/QuantumDriver/NLP-4th-Assignment/blob/master/Lesson-03/3.%E7%BC%96%E8%BE%91%E8%B7%9D%E7%A6%BB.ipynb)
 - [书籍阅读](https://github.com/QuantumDriver/NLP-4th-Assignment/tree/master/%E6%AF%8F%E6%97%A5%E9%98%85%E8%AF%BB)
 - [动态规划理论](https://github.com/QuantumDriver/NLP-4th-Assignment/blob/master/Lesson-03/5.2%20%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92%E7%90%86%E8%AE%BA.md)
-- [项目准备]()
+- [项目准备](https://github.com/QuantumDriver/NLP-4th-Assignment/tree/master/Project-1/Preparation)
 ***
 ## [Lesson-4]()
 - []()
