@@ -6,8 +6,7 @@
 ***
 ### Week1: 2019.07.15-2019.07.21
 - 2019.07.16 流畅的Python-1.1：[一摞Python风格的纸牌](https://github.com/QuantumDriver/NLP-4th-Assignment/blob/master/%E6%AF%8F%E6%97%A5%E9%98%85%E8%AF%BB/Fluent%20Python/1.1%E6%B5%81%E7%95%85%E7%9A%84Python.ipynb)
-- 2019.07.17   []()
-- 2019.07.18   []()
+- 2019.07.18 流畅的Python-1.2：[Python的特殊方法](https://github.com/QuantumDriver/NLP-4th-Assignment/blob/master/%E6%AF%8F%E6%97%A5%E9%98%85%E8%AF%BB/Fluent%20Python/1.2%E6%B5%81%E7%95%85%E7%9A%84Python.ipynb)
 - 2019.07.19   []()
 - 2019.07.20   []()
 - 2019.07.21   []()
