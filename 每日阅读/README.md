@@ -14,7 +14,7 @@
 - 2019.07.22   X
 - 2019.07.23   X
 - 2019.07.24 流畅的Python-2.1：[列表推导和元组](https://github.com/QuantumDriver/NLP-4th-Assignment/blob/master/%E6%AF%8F%E6%97%A5%E9%98%85%E8%AF%BB/Fluent%20Python/2.1%E6%B5%81%E7%95%85%E7%9A%84Python.ipynb)
-- 2019.07.25   []()
+- 2019.07.25 流畅的Python-2.4：[序列的高级操作](https://github.com/QuantumDriver/NLP-4th-Assignment/blob/master/%E6%AF%8F%E6%97%A5%E9%98%85%E8%AF%BB/Fluent%20Python/2.4%E6%B5%81%E7%95%85%E7%9A%84Python.ipynb)
 - 2019.07.26   []()
 - 2019.07.27   []()
 - 2019.07.28   []()
