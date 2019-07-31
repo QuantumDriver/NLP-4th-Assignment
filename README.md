@@ -21,11 +21,8 @@
 - [动态规划理论](https://github.com/QuantumDriver/NLP-4th-Assignment/blob/master/Lesson-03/5.2%20%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92%E7%90%86%E8%AE%BA.md)
 - [项目准备](https://github.com/QuantumDriver/NLP-4th-Assignment/tree/master/Project-1/Preparation)
 ***
-## [Lesson-4]()
-- []()
-- []()
-- []()
-- []()
+## [Lesson-4](https://github.com/QuantumDriver/NLP-4th-Assignment/tree/master/Lesson-04)
+- [中文wiki语料建模](https://github.com/QuantumDriver/NLP-4th-Assignment/blob/master/Lesson-04/Assignment.ipynb)
 ***
 ## [Lesson-5]()
 - []()
