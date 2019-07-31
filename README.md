@@ -23,6 +23,8 @@
 ***
 ## [Lesson-4](https://github.com/QuantumDriver/NLP-4th-Assignment/tree/master/Lesson-04)
 - [中文wiki语料建模](https://github.com/QuantumDriver/NLP-4th-Assignment/blob/master/Lesson-04/Assignment.ipynb)
+- [四本小说](https://github.com/QuantumDriver/NLP-4th-Assignment/blob/master/Lesson-04/%E5%B0%8F%E8%AF%B4%E5%88%86%E6%9E%90.ipynb)
+- [凡人修仙传](https://github.com/QuantumDriver/NLP-4th-Assignment/blob/master/Lesson-04/%E5%87%A1%E4%BA%BA%E4%BF%AE%E4%BB%99%E4%BC%A0%E5%88%86%E6%9E%90.ipynb)
 ***
 ## [Lesson-5]()
 - []()
