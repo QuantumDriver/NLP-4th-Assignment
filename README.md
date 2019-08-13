@@ -27,13 +27,19 @@
 - [凡人修仙传](https://github.com/QuantumDriver/NLP-4th-Assignment/blob/master/Lesson-04/%E5%87%A1%E4%BA%BA%E4%BF%AE%E4%BB%99%E4%BC%A0%E5%88%86%E6%9E%90.ipynb)
 ***
 ## [Lesson-5](https://github.com/QuantumDriver/NLP-4th-Assignment/tree/master/Lesson-05)
-- []()
+- [项目一](https://github.com/QuantumDriver/NLP-4th-Assignment/tree/master/Lesson-05)
+***
+## [Lesson-6](https://github.com/QuantumDriver/NLP-4th-Assignment/tree/master/Lesson-06)
+- [机器学习基础知识]()
+- [常用库的安装]()
+- [理论作业]()
+***
+## [Lesson-7]()
 - []()
 - []()
 - []()
 ***
-## [Lesson-6]()
-- []()
+## [Lesson-8]()
 - []()
 - []()
 - []()
