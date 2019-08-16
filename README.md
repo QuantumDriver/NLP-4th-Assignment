@@ -30,9 +30,9 @@
 - [项目一](https://github.com/QuantumDriver/NLP-4th-Assignment/tree/master/Lesson-05)
 ***
 ## [Lesson-6](https://github.com/QuantumDriver/NLP-4th-Assignment/tree/master/Lesson-06)
-- [机器学习基础知识]()
-- [常用库的安装]()
-- [理论作业]()
+- [机器学习基础知识](https://github.com/QuantumDriver/NLP-4th-Assignment/blob/master/Lesson-06/Assignment-6.ipynb)
+- [常用库的安装](https://github.com/QuantumDriver/NLP-4th-Assignment/blob/master/Lesson-06/Assignment-6.ipynb)
+- [理论作业](https://github.com/QuantumDriver/NLP-4th-Assignment/blob/master/Lesson-06/Assignment-6.ipynb)
 ***
 ## [Lesson-7]()
 - []()
