@@ -34,12 +34,22 @@
 - [常用库的安装](https://github.com/QuantumDriver/NLP-4th-Assignment/blob/master/Lesson-06/Assignment-6.ipynb)
 - [理论作业](https://github.com/QuantumDriver/NLP-4th-Assignment/blob/master/Lesson-06/Assignment-6.ipynb)
 ***
-## [Lesson-7]()
+## [Lesson-7](https://github.com/QuantumDriver/NLP-4th-Assignment/tree/master/Lesson-07)
 - []()
 - []()
 - []()
 ***
-## [Lesson-8]()
+## [Lesson-8](https://github.com/QuantumDriver/NLP-4th-Assignment/tree/master/Lesson-08)
+- []()
+- []()
+- []()
+***
+## [Lesson-9](https://github.com/QuantumDriver/NLP-4th-Assignment/tree/master/Lesson-09)
+- []()
+- []()
+- []()
+***
+## [Lesson-10](https://github.com/QuantumDriver/NLP-4th-Assignment/tree/master/Lesson-10)
 - []()
 - []()
 - []()
