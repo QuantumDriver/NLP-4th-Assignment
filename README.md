@@ -1,4 +1,4 @@
-# 开课吧人工智能学院 自然语言处理 [第四期](https://github.com/QuantumDriver/NLP-4th-Assignment/blob/master/Outline.pdf)
+# 开课吧人工智能学院 [自然语言处理](https://github.com/Computing-Intelligence/jupyters_and_slides/tree/master/2019-summer) [第四期](https://github.com/QuantumDriver/NLP-4th-Assignment/blob/master/Outline.pdf)
 
 ## [Lesson-1](https://github.com/QuantumDriver/NLP-4th-Assignment/tree/master/Lesson-01)
 - [代码复现](https://github.com/QuantumDriver/NLP-4th-Assignment/blob/master/Lesson-01/Recurrent.ipynb)
@@ -35,9 +35,7 @@
 - [理论作业](https://github.com/QuantumDriver/NLP-4th-Assignment/blob/master/Lesson-06/Assignment-6.ipynb)
 ***
 ## [Lesson-7](https://github.com/QuantumDriver/NLP-4th-Assignment/tree/master/Lesson-07)
-- []()
-- []()
-- []()
+- [新华社文本抄袭案例]()
 ***
 ## [Lesson-8](https://github.com/QuantumDriver/NLP-4th-Assignment/tree/master/Lesson-08)
 - []()
