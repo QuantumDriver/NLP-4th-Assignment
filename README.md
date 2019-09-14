@@ -35,7 +35,7 @@
 - [理论作业](https://github.com/QuantumDriver/NLP-4th-Assignment/blob/master/Lesson-06/Assignment-6.ipynb)
 ***
 ## [Lesson-7](https://github.com/QuantumDriver/NLP-4th-Assignment/tree/master/Lesson-07)
-- [新华社文本抄袭案例]()
+- [新华社文本抄袭案例](https://github.com/QuantumDriver/NLP-4th-Assignment/blob/master/Lesson-07/Assignment-7.ipynb)
 ***
 ## [Lesson-8](https://github.com/QuantumDriver/NLP-4th-Assignment/tree/master/Lesson-08)
 - []()
