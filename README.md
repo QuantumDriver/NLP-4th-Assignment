@@ -38,9 +38,7 @@
 - [新华社文本抄袭案例](https://github.com/QuantumDriver/NLP-4th-Assignment/blob/master/Lesson-07/Assignment-7.ipynb)
 ***
 ## [Lesson-8](https://github.com/QuantumDriver/NLP-4th-Assignment/tree/master/Lesson-08)
-- []()
-- []()
-- []()
+- [新华社文本抄袭案例2](https://github.com/QuantumDriver/NLP-4th-Assignment/blob/master/Lesson-08/Assignment-8.ipynb)
 ***
 ## [Lesson-9](https://github.com/QuantumDriver/NLP-4th-Assignment/tree/master/Lesson-09)
 - []()
@@ -48,6 +46,21 @@
 - []()
 ***
 ## [Lesson-10](https://github.com/QuantumDriver/NLP-4th-Assignment/tree/master/Lesson-10)
+- []()
+- []()
+- []()
+***
+## [Lesson-11](https://github.com/QuantumDriver/NLP-4th-Assignment/tree/master/Lesson-11)
+- []()
+- []()
+- []()
+***
+## [Lesson-12](https://github.com/QuantumDriver/NLP-4th-Assignment/tree/master/Lesson-12)
+- []()
+- []()
+- []()
+***
+## [Lesson-13](https://github.com/QuantumDriver/NLP-4th-Assignment/tree/master/Lesson-13)
 - []()
 - []()
 - []()
